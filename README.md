@@ -1,5 +1,5 @@
 # Water_Level_Detection_with_SOCKET_PROGRAMMING
-##Water level detection using SOCKET PROGRAMMING ##
+##Water level detection using SOCKET PROGRAMMING 
 
 
 The server is from where the video feed is taken as input runs it Through a loop to capture video frames performs live water levl detection   
